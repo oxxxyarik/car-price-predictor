@@ -37,6 +37,14 @@ https://www.kaggle.com/datasets/ekibee/car-sales-information
 | MAPE | 15,69 % |
 | R² | 0,9502 |
 
+## Интерфейс приложения
+
+![Интерфейс](images/interface.png)
+
+## Важность признаков
+
+![Feature Importance](images/feature_importance.png)
+
 ## Структура проекта
 
 app.py                 Веб-приложение Streamlit
