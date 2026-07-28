@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+catboost_info/
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+autoru-used-cars.csv
